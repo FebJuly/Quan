@@ -1,7 +1,11 @@
-  - DOMAIN,789.123456.al,🎬 Emby  #TreeDiagram
-  - DOMAIN,media.nijigem.by,🎬 Emby #二次元emby
-  - DOMAIN,emby.pilipiliultra.top,🎬 Emby #pilipili
-  - DOMAIN,emby.pilipiliultra.com,🎬 Emby #pilipili
-  - DOMAIN,pilipiliultra.top,🎬 Emby  #pilipili
-  - DOMAIN,pilipiliultra.com,🎬 Emby  #pilipili
-  - DOMAIN,emby.bangumi.ca,🎬 Emby  #Nya Media
+#TreeDiagram
+HOST-SUFFIX,789.123456.al,Emby
+#二次元emby
+HOST-SUFFIX,media.nijigem.by,Emby
+#pilipili
+HOST-SUFFIX,emby.pilipiliultra.top,Emby
+HOST-SUFFIX,emby.pilipiliultra.com,Emby
+HOST-SUFFIX,pilipiliultra.top,Emby
+HOST-SUFFIX,pilipiliultra.com,Emby
+#Nya Media
+HOST-SUFFIX,emby.bangumi.ca,Emby
