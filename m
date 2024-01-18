@@ -1,7 +1,0 @@
-  - DOMAIN,789.123456.al,🎬 Emby  #TreeDiagram
-  - DOMAIN,media.nijigem.by,🎬 Emby #二次元emby
-  - DOMAIN,emby.pilipiliultra.top,🎬 Emby #pilipili
-  - DOMAIN,emby.pilipiliultra.com,🎬 Emby #pilipili
-  - DOMAIN,pilipiliultra.top,🎬 Emby  #pilipili
-  - DOMAIN,pilipiliultra.com,🎬 Emby  #pilipili
-  - DOMAIN,emby.bangumi.ca,🎬 Emby  #Nya Media
